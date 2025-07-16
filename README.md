@@ -60,23 +60,23 @@ bash
 ## 📦 Dependencies
 Make sure you install these with pip:
 
-pandas
+     pandas
 
-matplotlib
+    matplotlib
 
-fpdf2
+    fpdf2
 
-openpyxl
+    openpyxl
 
-PyPDF2
+    PyPDF2
 
-python-docx
+    python-docx
 
 ---
 ## 💬 Sample Terminal Output
-plaintext
-Copy
-Edit
+ <img width="1649" height="288" alt="Screenshot 2025-07-17 004439" src="https://github.com/user-attachments/assets/0e97f39c-d933-401d-8de9-cc9d6cf4223c" />
+
+
 📁 Your reports will be saved to: C:\Users\YourName\Downloads
 
 📂 Enter full path of CSV, Excel, PDF or DOCX file: D:\data\sales.xlsx

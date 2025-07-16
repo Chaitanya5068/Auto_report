@@ -49,9 +49,8 @@ To automatically analyze a user-provided data file and generate a neat, readable
 ## ▶️ Run the Project
 
 bash
-Copy
-Edit
-python report_generator.py
+
+      python report_generator.py
 
 🔸 When prompted, paste the full path to your input file
 
